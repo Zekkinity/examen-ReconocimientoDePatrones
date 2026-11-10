@@ -1,0 +1,17 @@
+[project]
+name = "examen-intermedio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Zekk", email = "127800799+Zekkinity@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "python-calamine>=0.9.1",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+]
